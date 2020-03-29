@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.0.0-beta1" sequence="1" timestamp="1557411097272" analysisTimestamp="1557411032929" release="">
+  <Project projectName="SparkModule3">
+    <Jar>C:\Users\Rahul Sapireddy\Desktop\Big_Data_ Important_ Files\SparkModule3\target\classes</Jar>
+    <AuxClasspathEntry>C:\Users\Rahul Sapireddy\Desktop\Big_Data_ Important_ Files\SparkModule3\target\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Rahul Sapireddy\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Rahul Sapireddy\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Rahul Sapireddy\Desktop\Java\lib\rt.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Rahul Sapireddy\Desktop\Java\lib\jce.jar</AuxClasspathEntry>
+    <SrcDir>C:\Users\Rahul Sapireddy\Desktop\Big_Data_ Important_ Files\SparkModule3\src\main\java</SrcDir>
+    <SrcDir>C:\Users\Rahul Sapireddy\Desktop\Big_Data_ Important_ Files\SparkModule3\src\main\resources</SrcDir>
+  </Project>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="1" rank="15" abbrev="DLS" category="STYLE" first="1">
+    <Class classname="com.virtualpairprogrammers.HousePriceAnalysis">
+      <SourceLine classname="com.virtualpairprogrammers.HousePriceAnalysis" sourcefile="HousePriceAnalysis.java" sourcepath="com/virtualpairprogrammers/HousePriceAnalysis.java"/>
+    </Class>
+    <Method classname="com.virtualpairprogrammers.HousePriceAnalysis" name="main" signature="([Ljava/lang/String;)V" isStatic="true">
+      <SourceLine classname="com.virtualpairprogrammers.HousePriceAnalysis" start="28" end="129" startBytecode="0" endBytecode="422" sourcefile="HousePriceAnalysis.java" sourcepath="com/virtualpairprogrammers/HousePriceAnalysis.java"/>
+    </Method>
+    <LocalVariable name="VectorAssembler2" register="11" pc="347" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="com.virtualpairprogrammers.HousePriceAnalysis" start="77" end="77" startBytecode="345" endBytecode="345" sourcefile="HousePriceAnalysis.java" sourcepath="com/virtualpairprogrammers/HousePriceAnalysis.java"/>
+    <SourceLine classname="com.virtualpairprogrammers.HousePriceAnalysis" start="77" end="77" startBytecode="345" endBytecode="345" sourcefile="HousePriceAnalysis.java" sourcepath="com/virtualpairprogrammers/HousePriceAnalysis.java"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.DEAD_OBJECT_STORE" value="true"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.LOCAL_NAME" value="VectorAssembler2"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.METHOD_RESULT" value="true"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="2" rank="17" abbrev="DLS" category="STYLE" first="1">
+    <Class classname="com.virtualpairprogrammers.VPPChapterViews">
+      <SourceLine classname="com.virtualpairprogrammers.VPPChapterViews" sourcefile="VPPChapterViews.java" sourcepath="com/virtualpairprogrammers/VPPChapterViews.java"/>
+    </Class>
+    <Method classname="com.virtualpairprogrammers.VPPChapterViews" name="main" signature="([Ljava/lang/String;)V" isStatic="true">
+      <SourceLine classname="com.virtualpairprogrammers.VPPChapterViews" start="25" end="81" startBytecode="0" endBytecode="339" sourcefile="VPPChapterViews.java" sourcepath="com/virtualpairprogrammers/VPPChapterViews.java"/>
+    </Method>
+    <LocalVariable name="HoldData" register="11" pc="477" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="com.virtualpairprogrammers.VPPChapterViews" start="67" end="67" startBytecode="475" endBytecode="475" sourcefile="VPPChapterViews.java" sourcepath="com/virtualpairprogrammers/VPPChapterViews.java"/>
+    <SourceLine classname="com.virtualpairprogrammers.VPPChapterViews" start="67" end="67" startBytecode="475" endBytecode="475" sourcefile="VPPChapterViews.java" sourcepath="com/virtualpairprogrammers/VPPChapterViews.java"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.LOCAL_NAME" value="HoldData"/>
+    <Property name="edu.umd.cs.findbugs.detect.DeadLocalStoreProperty.NO_LOADS" value="true"/>
+  </BugInstance>
+  <BugInstance type="MS_SHOULD_BE_FINAL" priority="1" rank="16" abbrev="MS" category="MALICIOUS_CODE" first="1">
+    <Class classname="com.virtualpairprogrammers.VPPFreeTrials">
+      <SourceLine classname="com.virtualpairprogrammers.VPPFreeTrials" sourcefile="VPPFreeTrials.java" sourcepath="com/virtualpairprogrammers/VPPFreeTrials.java"/>
+    </Class>
+    <Field classname="com.virtualpairprogrammers.VPPFreeTrials" name="countryGrouping" signature="Lorg/apache/spark/sql/api/java/UDF1;" isStatic="true">
+      <SourceLine classname="com.virtualpairprogrammers.VPPFreeTrials" sourcefile="VPPFreeTrials.java" sourcepath="com/virtualpairprogrammers/VPPFreeTrials.java"/>
+    </Field>
+    <SourceLine classname="com.virtualpairprogrammers.VPPFreeTrials" start="25" end="25" startBytecode="7" endBytecode="7" sourcefile="VPPFreeTrials.java" sourcepath="com/virtualpairprogrammers/VPPFreeTrials.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Tue, 7 May 2019 22:13:47 -0500" total_classes="9" referenced_classes="24" total_bugs="3" total_size="307" num_packages="1" java_version="1.8.0_201" vm_version="25.201-b09" cpu_seconds="59.05" clock_seconds="64.39" peak_mbytes="820.54" alloc_mbytes="1024.00" gc_seconds="2.81" priority_2="1" priority_1="2">
+    <PackageStats package="com.virtualpairprogrammers" total_bugs="3" total_types="9" total_size="307" priority_2="1" priority_1="2">
+      <ClassStats class="com.virtualpairprogrammers.GymCompetitors" sourceFile="GymCompetitors.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="com.virtualpairprogrammers.GymCompetitorsClustering" sourceFile="GymCompetitorsClustering.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="com.virtualpairprogrammers.HousePriceAnalysis" sourceFile="HousePriceAnalysis.java" interface="false" size="50" bugs="1" priority_1="1"/>
+      <ClassStats class="com.virtualpairprogrammers.HousePriceFields" sourceFile="HousePriceFields.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.virtualpairprogrammers.VPPChapterViews" sourceFile="VPPChapterViews.java" interface="false" size="40" bugs="1" priority_2="1"/>
+      <ClassStats class="com.virtualpairprogrammers.VPPChapterViewsLogistic" sourceFile="VPPChapterViewsLogistic.java" interface="false" size="47" bugs="0"/>
+      <ClassStats class="com.virtualpairprogrammers.VPPCourseRecommendations" sourceFile="VPPCourseRecommendations.java" interface="false" size="32" bugs="0"/>
+      <ClassStats class="com.virtualpairprogrammers.VPPFreeTrials" sourceFile="VPPFreeTrials.java" interface="false" size="39" bugs="1" priority_1="1"/>
+      <ClassStats class="com.virtualpairprogrammers.VPPFreeTrials$1" sourceFile="VPPFreeTrials.java" interface="false" size="11" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="1428" invocations="2" avgMicrosecondsPerInvocation="714329" maxMicrosecondsPerInvocation="973439" standardDeviationMicrosecondsPerInvocation="259110"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="723" invocations="446" avgMicrosecondsPerInvocation="1621" maxMicrosecondsPerInvocation="32885" standardDeviationMicrosecondsPerInvocation="3725"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="263" invocations="439" avgMicrosecondsPerInvocation="599" maxMicrosecondsPerInvocation="48354" standardDeviationMicrosecondsPerInvocation="2467"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="238" invocations="20" avgMicrosecondsPerInvocation="11919" maxMicrosecondsPerInvocation="107556" standardDeviationMicrosecondsPerInvocation="25831"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="146" invocations="9" avgMicrosecondsPerInvocation="16277" maxMicrosecondsPerInvocation="30958" standardDeviationMicrosecondsPerInvocation="9613"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="131" invocations="20" avgMicrosecondsPerInvocation="6578" maxMicrosecondsPerInvocation="69556" standardDeviationMicrosecondsPerInvocation="14983"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="126" invocations="24" avgMicrosecondsPerInvocation="5283" maxMicrosecondsPerInvocation="60225" standardDeviationMicrosecondsPerInvocation="12594"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="99" invocations="20" avgMicrosecondsPerInvocation="4972" maxMicrosecondsPerInvocation="35378" standardDeviationMicrosecondsPerInvocation="8205"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="98" invocations="19" avgMicrosecondsPerInvocation="5191" maxMicrosecondsPerInvocation="21573" standardDeviationMicrosecondsPerInvocation="6636"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="92" invocations="24" avgMicrosecondsPerInvocation="3870" maxMicrosecondsPerInvocation="19821" standardDeviationMicrosecondsPerInvocation="5666"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="92" invocations="147" avgMicrosecondsPerInvocation="630" maxMicrosecondsPerInvocation="10538" standardDeviationMicrosecondsPerInvocation="1146"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="89" invocations="20" avgMicrosecondsPerInvocation="4498" maxMicrosecondsPerInvocation="27693" standardDeviationMicrosecondsPerInvocation="6868"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="84" invocations="20" avgMicrosecondsPerInvocation="4209" maxMicrosecondsPerInvocation="29443" standardDeviationMicrosecondsPerInvocation="7143"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="77" invocations="20" avgMicrosecondsPerInvocation="3878" maxMicrosecondsPerInvocation="63058" standardDeviationMicrosecondsPerInvocation="13604"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1557411097166" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

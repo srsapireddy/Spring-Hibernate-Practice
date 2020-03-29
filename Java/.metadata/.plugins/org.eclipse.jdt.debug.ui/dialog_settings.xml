@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="82" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2"/>
+	<item value="1" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn"/>
+	<item value="223" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1"/>
+	<item value="83" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0"/>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=mycoolapp/src\/main\/java&amp;lt;com.luv2code.springboot.demo.mycoolapp{MycoolappApplication.java[MycoolappApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=30-thymeleafdemo-helloworld/src\/main\/java&amp;lt;com.luv2code.springboot.thymeleafdemo{ThymeleafdemoApplication.java[ThymeleafdemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=31-thymeleafdemo-helloworld-css/src\/main\/java&amp;lt;com.luv2code.springboot.thymeleafdemo{ThymeleafdemoApplication.java[ThymeleafdemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=32-thymeleafdemo-employees-list/src\/main\/java&amp;lt;com.luv2code.springboot.thymeleafdemo{ThymeleafdemoApplication.java[ThymeleafdemoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=springboothelloworld/src\/main\/java&amp;lt;com.javainuse.springboothelloworld{SpringboothelloworldApplication.java[SpringboothelloworldApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=spring-boot-gradle/src\/main\/java&amp;lt;com.javainuse{BootGradleApplication.java[BootGradleApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=web-customer-tracker/C:\/Users\/Rahul Sapireddy\/Desktop\/Selenium\/Java\/web-customer-tracker\/WebContent\/WEB-INF\/lib\/antlr-2.7.7.jar&amp;lt;antlr.debug.misc(ASTFrame.class[ASTFrame&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=web-customer-tracker/C:\/Users\/Rahul Sapireddy\/Desktop\/Selenium\/Java\/web-customer-tracker\/WebContent\/WEB-INF\/lib\/javassist-3.24.0-GA.jar&amp;lt;javassist.tools.web(Webserver.class[Webserver&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SpringBootHelloWorld/src\/main\/java&amp;lt;com.javainuse{SpringBootHelloWorldApplication.java[SpringBootHelloWorldApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=gaints-services/src\/main\/java&amp;lt;com.embedded.springboot.gaintsservices{GaintsServicesApplication.java[GaintsServicesApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=gaints-services-leaf/src\/main\/java&amp;lt;com.embed.springboot.gaintsservicesleaf{GaintsServicesLeafApplication.java[GaintsServicesLeafApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=springboot-swagger-test/src\/main\/java&amp;lt;com.javainuse.swaggertest{Application.java[Application&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SpringBootHelloWorld-0.0.1-SNAPSHOT/src\/main\/java&amp;lt;com.javainuse{SpringBootHelloWorldApplication.java[SpringBootHelloWorldApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=restapi/src\/main\/java&amp;lt;com.example.restapi{RestapiApplication.java[RestapiApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="834" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="224" key="DIALOG_X_ORIGIN"/>
+			<item value="167" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

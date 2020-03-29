@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1560457811360_1" label="EGTax" name="EGTax">
+<item elementID="=springboot-swagger-test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1560479265147_2" label="JPA" name="JPA">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringBootHelloWorld-0.0.1-SNAPSHOT" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1560627939222_3" label="Shopping" name="Shopping">
+<item elementID="=onlineshopping" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1556661635660_0" label="Window Working Set" name="Aggregate for window 1556661635659"/>
+<mruList name="Shopping"/>
+<mruList name="JPA"/>
+<mruList name="EGTax"/>
+</workingSetManager>

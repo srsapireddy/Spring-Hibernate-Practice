@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Angular_Rest_API_Demo\ANGULAR-JS-SPRINGBOOT-REST-JPA-HIBERNATE-MYSQL-CRUD-APPLICATION.-master"/>
+			<item value="S:\online-shopping-master\online-shopping-master\shoppingbackend"/>
+			<item value="S:\online-shopping-master\online-shopping-master\onlineshopping"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Swagger\swagger-rest-api-documentation-master"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Projects\SpringBootHelloWorld-data"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Swagger\tax-calculator-master"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Swagger\springboot-swagger-test"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Projects\SpringBootHelloWorld_TestNG"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Consultancy Projects\gaints-services-leaf"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Consultancy Projects\gaints-services"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Projects\Spring-Boot-Test"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Projects\JUnit"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Projects\SpringBootHelloWorld_JUnit"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Projects\SpringBootHelloWorld"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Projects\springboothelloworld"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]-[version]"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

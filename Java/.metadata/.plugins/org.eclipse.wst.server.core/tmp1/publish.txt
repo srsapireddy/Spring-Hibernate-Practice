@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Jun 11 00:25:07 CDT 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Rahul\ Sapireddy\\Desktop\\Selenium\\Java\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.1.6.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.6.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Rahul\ Sapireddy\\Desktop\\Selenium\\Java\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.1.6.RELEASE.jar=WEB-INF/lib/spring-web-5.1.6.RELEASE.jar

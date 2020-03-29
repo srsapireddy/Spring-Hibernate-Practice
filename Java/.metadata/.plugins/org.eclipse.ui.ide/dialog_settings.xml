@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="S:\online-shopping"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\server problem\solution-code-spring-security-demo-07-user-roles-display-only"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Selenium\Java\spring-security-demo-07-user-roles-display-only"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\server problem\solution-code-spring-security-demo-07-user-roles-restrict-access"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Server Problem\Spring-Server-Problem"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Server Problem\solution-code-spring-security-demo-07-user-roles-display-only"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Java_Important_Files\spring-demo"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Big_Data_ Important_ Files\Chapter 02"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Big_Data_ Important_ Files\SparkModule3"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Big_Data_ Important_ Files\Project"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Java_Important_Files\spring-mvc-demo"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Java_Important_Files\spring-mvc-demo-Important"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="402" key="DIALOG_HEIGHT"/>
+		<item value="433" key="DIALOG_X_ORIGIN"/>
+		<item value="101" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Rahul Sapireddy\shoppingbackend"/>
+			<item value="C:\Users\Rahul Sapireddy\onlineshopping"/>
+			<item value="C:\Users\Rahul Sapireddy\Documents\online-shopping-master\shoppingbackend"/>
+			<item value="C:\Users\Rahul Sapireddy\Documents\online-shopping-master\onlineshopping"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\online-shopping-master\shoppingbackend"/>
+			<item value="C:\Users\Rahul Sapireddy\Desktop\online-shopping-master\onlineshopping"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Java_Important_Files\hibernate-03-one-to-many" key="OUTSIDE_LOCATION"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="381" key="DIALOG_X_ORIGIN"/>
+		<item value="190" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

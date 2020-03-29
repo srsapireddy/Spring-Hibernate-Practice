@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Spring Boot Angular Project\microservice-user-management" key="project_location"/>
+	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item value="true" key="use_default_location"/>
+		<item value="C:\Users\Rahul Sapireddy\Desktop\Selenium\Java\spring-boot-gradle" key="project_location"/>
+	</section>
+</section>
